@@ -1,4 +1,6 @@
-### Hi there 👋
+(Please note the below chart does not include code for work, as I cannot use cloud-based services from my work computer. These totals are only from personal projects.)
+
+![Wakatime](https://wakatime.com/share/@spazure/3f61523e-e18c-40d7-8dca-241a140bc29c.png)
 
 <!--
 **spazure/spazure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
