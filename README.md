@@ -1,4 +1,4 @@
-(Please note the below charts does not include code for work, as I cannot use cloud-based services from my work computer for security reasons. These totals are only from personal projects.)
+(Please note the below charts do not include code for work, as I cannot use cloud-based services from my work computer for security reasons. These totals are only from personal projects.)
 
 [![wakatime](https://wakatime.com/badge/user/1beb5578-2dbc-4574-bdc0-fd327bdb8ba2.svg)](https://wakatime.com/@1beb5578-2dbc-4574-bdc0-fd327bdb8ba2)
 
